@@ -1,1 +1,4 @@
-Changes in beta
+//changes in beta
+public class Example {
+
+}
